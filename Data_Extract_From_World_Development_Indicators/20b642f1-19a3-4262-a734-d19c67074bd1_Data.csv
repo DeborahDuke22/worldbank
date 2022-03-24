@@ -1,0 +1,13 @@
+count id,Country Name,Country Code,Series Name,Series Code,Yr2013,Yr2016,Yr2019
+1,Ghana,GHA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,19.4,21.4,22.6
+2,Ghana,GHA,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.7,79.3,83.5
+3,Ghana,GHA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,50.82963685,66.59609221,70.00862423
+4,Ghana,GHA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.5,89.8,93.8
+5,Ghana,GHA,"Compulsory education, duration (years)",SE.COM.DURS,11,11,11
+6,Ghana,GHA,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0,0,0
+7,Ghana,GHA,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0,0,0
+8,Ghana,GHA,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS,0,50.1,0
+9,Ghana,GHA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,31.5,30.28,28.992
+10,Ghana,GHA,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,41,55,67
+11,Ghana,GHA,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,24,28,45
+12,Ghana,GHA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,5.823055077,0,0

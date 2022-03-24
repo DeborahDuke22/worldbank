@@ -1,0 +1,13 @@
+count id,Country Name,Country Code,Series Name,Series Code,Yr2013,Yr2016,Yr2019
+1,Nigeria,NGA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,3.4000001,6.9000001,13
+2,Nigeria,NGA,Access to electricity (% of population),EG.ELC.ACCS.ZS,55.6,59.3,55.4
+3,Nigeria,NGA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,31.63459431,33.9704584,25.54977601
+4,Nigeria,NGA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,83.6,86,83.9
+5,Nigeria,NGA,"Compulsory education, duration (years)",SE.COM.DURS,9,9,9
+6,Nigeria,NGA,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,117.344,121.011,0
+7,Nigeria,NGA,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0.105982659,0.111613171,0
+8,Nigeria,NGA,Children with fever receiving antimalarial drugs (% of children under age 5 with fever),SH.MLR.TRET.ZS,32.7,0,0
+9,Nigeria,NGA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,40.267,38.873,37.446
+10,Nigeria,NGA,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),SH.HIV.PMTC.ZS,61,65,50
+11,Nigeria,NGA,Antiretroviral therapy coverage (% of people living with HIV),SH.HIV.ARTC.ZS,41,55,67
+12,Nigeria,NGA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.277955772,0,0

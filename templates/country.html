@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>World Development Indicators Data for Nigeria from 2013,2016 and 2019</title>
+
+</head>
+<body>
+ 
+    <h1>World Development Indicators Data for Nigeria</h1>
+
+    {%for row in rows%}
+    <p>Nigeria:
+      <b> <a href={{ url_for('dev', count_id= row['count_id']) }}>{{row["count_id"]}}</a></b>
+      {{row["Country_name"]}}
+      {{row["Series_name"]}} 
+    </p>
+    {% endfor %}
+
+</body>
+</html>

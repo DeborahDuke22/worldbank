@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>World Development Indicators Data for Ghana from 2013,2016 and 2019</title>
+</head>
+<body>
+ 
+    <h1>World Development Indicators Data for Ghana</h1>
+
+    {%for row in rows%}
+    <p>Ghana:
+      <b> <a href={{ url_for('dev_2', count_ID= row['count_ID']) }}>{{row["count_ID"]}}</a></b>
+      {{row["country_name"]}}
+      {{row["series_name"]}} 
+    </p>
+    {% endfor %}
+
+</body>
+</html>

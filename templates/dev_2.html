@@ -1,0 +1,20 @@
+<html>
+<head>
+  <title>World Development Indicators</title>
+</head>
+<body>
+ 
+    <h1>World Development Indicators Data for Ghana from 2013,2016 and 2019</h1>
+    
+    
+    <h2> Series code | 2013 | 2016 | 2019 |</h2>
+    {% for row in rows %}
+    <p>Ghana:  
+       <b>{{row["series_code"]}} </b>|
+       {{row["yr2013"]}} | 
+        {{ row["yr2016"]}} | 
+       {{row['yr2019']}} 	
+    </p>
+    {% endfor %}
+</body>
+</html>
